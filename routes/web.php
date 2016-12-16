@@ -90,3 +90,7 @@ Route::get('/return', function () {
 Route::get('/sitemap', function () {
     return view('subviews.sitemap');
 });
+
+Route::get('/quickview', function () {
+    return view('subviews.quickview');
+});

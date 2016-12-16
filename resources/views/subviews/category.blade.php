@@ -282,7 +282,7 @@
                                     <!--end countdown box-->
 
                                     <!--full quick view block-->
-                                    <a class="quickview  visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview  visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -330,7 +330,7 @@
                                     </div>
 
                                     <!--full quick view block-->
-                                    <a class="quickview  visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview  visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -389,7 +389,7 @@
                                     <!--end countdown box-->
 
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -438,7 +438,7 @@
                                     <!--Sale Label-->
                                     <span class="label label-sale">Sale</span>
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -486,7 +486,7 @@
                                     </div>
 
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -532,7 +532,7 @@
                                     </div>
 
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -580,7 +580,7 @@
                                     </div>
 
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -628,7 +628,7 @@
                                     <!--Sale Label-->
                                     <span class="label label-sale">Sale</span>
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -676,7 +676,7 @@
                                     </div>
 
                                     <!--full quick view block-->
-                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="quickview.html">  Quickview</a>
+                                    <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"  href="{{ URL::to('quickview') }}">  Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 

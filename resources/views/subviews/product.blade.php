@@ -358,7 +358,7 @@
                                     <span class="label label-sale">Sale</span>
                                     <!--full quick view block-->
                                     <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"
-                                       href="quickview.html"> Quickview</a>
+                                       href="{{ URL::to('quickview') }}"> Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -421,7 +421,7 @@
                                     <span class="label label-sale">Sale</span>
                                     <!--full quick view block-->
                                     <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"
-                                       href="quickview.html"> Quickview</a>
+                                       href="{{ URL::to('quickview') }}"> Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -484,7 +484,7 @@
                                     <span class="label label-sale">Sale</span>
                                     <!--full quick view block-->
                                     <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"
-                                       href="quickview.html"> Quickview</a>
+                                       href="{{ URL::to('quickview') }}"> Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
@@ -547,7 +547,7 @@
                                     <span class="label label-sale">Sale</span>
                                     <!--full quick view block-->
                                     <a class="quickview iframe-link visible-lg" data-fancybox-type="iframe"
-                                       href="quickview.html"> Quickview</a>
+                                       href="{{ URL::to('quickview') }}"> Quickview</a>
                                     <!--end full quick view block-->
                                 </div>
 
